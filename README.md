@@ -1,6 +1,6 @@
 # LLM Arena Chess 🤖♚♛
 
-O objetivo desse código é analisar como grandes modelos de processamento de linguagem natural performam em um jogo de puro cálculo e lógica.
+O objetivo desse código é análisar como grandes modelos de processamento de linguagem natural performam em um jogo de puro cálculo e lógica.
 
 # Instalação
 
